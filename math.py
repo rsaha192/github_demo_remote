@@ -14,5 +14,7 @@ def divide(x,y):
     else:
         return x/y
 #NewFunction
+#Square
+#new new
 def square (x):
     return x*x
