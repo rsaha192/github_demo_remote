@@ -1,6 +1,6 @@
 #Add
 def add(x,y):
-	return x+y
+	return x*10+y
 #Subtract
 def subtrac(x,y):
 	return x-y
